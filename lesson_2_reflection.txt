@@ -1,7 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+Git create a hidden directory where service info about repository stored.
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+It add link to the files related to project for future monitoring and commits.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
