@@ -10,6 +10,8 @@ It add link to the files related to project for future monitoring and commits.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+After modifying several files I can add to staging area only those of them which I wish to include in particular commit.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
