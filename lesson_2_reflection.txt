@@ -15,6 +15,9 @@ After modifying several files I can add to staging area only those of them which
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+It's usefull when you need to implement different version of program without loosing main release
+For example to implement experimental feature or different language or so on.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
